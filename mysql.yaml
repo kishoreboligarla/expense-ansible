@@ -11,4 +11,4 @@
     ansible.builtin.service:
       name: mysqld
       status: started
-      enables: yes
+      enabled: yes
